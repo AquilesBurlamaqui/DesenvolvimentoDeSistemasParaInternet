@@ -1,2 +1,2 @@
 # DESENVOLVIMENTO DE SISTEMAS PARA INTERNET
-<p> Repositório destinado a disciplina ECT2526 </p>
+<p> Repositório destinado ao projeto 4 da disciplina ECT2526 </p>
