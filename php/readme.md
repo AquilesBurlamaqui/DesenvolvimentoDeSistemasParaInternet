@@ -1,7 +1,7 @@
 # Introdução ao PHP
 
-
-```
+## listar.php
+``` php
 <html>
   
   <head>
@@ -46,8 +46,8 @@ $conn->close();
 </html>
 ```
 
-
-```
+## formulario.php
+``` php
 <!DOCTYPE html>
 <html>
 <body>
@@ -75,7 +75,7 @@ $conn->close();
 </html>
 ```
  
- 
+## cadastrar.php
 ``` php
 <html>
 <body>
