@@ -45,4 +45,33 @@ $conn->close();
   </body>
 </html>
 ```
+
+
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="cadastrar.php">
+  Nome:<br>
+  <input type="text" name="nome">
+  <br>
+  e-mail:<br>
+  <input type="text" name="email">
+  <br><br>
+  Endereco:<br>
+  <input type="text" name="endereco">
+  <br><br>
+  senha:<br>
+  <input type="password" name="senha">
+  <br><br>
+  <input type="submit" value="Cadastrar">
+</form> 
+  
+  <a href="listar.php">Listar usuarios</a>
+
+
+</body>
+</html>
+```
  
